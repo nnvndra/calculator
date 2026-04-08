@@ -1,4 +1,7 @@
-﻿int a = 10, b = 11;
+﻿Nama: Novendra Rahmad Gattuso
+NIM: 25.11.6541
+
+int a = 10, b = 11;
 
 static int Penjumlahan(int a, int b)
 {
